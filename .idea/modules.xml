@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/boss-bes-user-permission-center-config/boss-bes-user-permission-center-config.iml" filepath="$PROJECT_DIR$/boss-bes-user-permission-center-config/boss-bes-user-permission-center-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boss-bes-user-permission-center-controller/boss-bes-user-permission-center-controller.iml" filepath="$PROJECT_DIR$/boss-bes-user-permission-center-controller/boss-bes-user-permission-center-controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boss-bes-user-permission-center-dao/boss-bes-user-permission-center-dao.iml" filepath="$PROJECT_DIR$/boss-bes-user-permission-center-dao/boss-bes-user-permission-center-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boss-bes-user-permission-center-eruka/boss-bes-user-permission-center-eruka.iml" filepath="$PROJECT_DIR$/boss-bes-user-permission-center-eruka/boss-bes-user-permission-center-eruka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boss-bes-user-permission-center-pojo/boss-bes-user-permission-center-pojo.iml" filepath="$PROJECT_DIR$/boss-bes-user-permission-center-pojo/boss-bes-user-permission-center-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boss-bes-user-permission-center-service/boss-bes-user-permission-center-service.iml" filepath="$PROJECT_DIR$/boss-bes-user-permission-center-service/boss-bes-user-permission-center-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boss-bes-user-permission-center-utils/boss-bes-user-permission-center-utils.iml" filepath="$PROJECT_DIR$/boss-bes-user-permission-center-utils/boss-bes-user-permission-center-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/user-permission.iml" filepath="$PROJECT_DIR$/.idea/user-permission.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boss-bes-user-permission-center-parent/user.permission.center.parent.iml" filepath="$PROJECT_DIR$/boss-bes-user-permission-center-parent/user.permission.center.parent.iml" />
+    </modules>
+  </component>
+</project>

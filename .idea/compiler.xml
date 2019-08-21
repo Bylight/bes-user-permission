@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="boss-bes-user-permission-center-controller" />
+        <module name="boss-bes-user-permission-center-pojo" />
+        <module name="boss-bes-user-permission-center-eruka" />
+        <module name="boss-bes-user-permission-center-config" />
+        <module name="boss-bes-user-permission-center-dao" />
+        <module name="boss-bes-user-permission-center-utils" />
+        <module name="boss-bes-user-permission-center-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="boss-bes-user-permission-center-config" target="1.5" />
+      <module name="boss-bes-user-permission-center-controller" target="1.5" />
+      <module name="boss-bes-user-permission-center-dao" target="1.5" />
+      <module name="boss-bes-user-permission-center-eruka" target="1.5" />
+      <module name="boss-bes-user-permission-center-pojo" target="1.5" />
+      <module name="boss-bes-user-permission-center-service" target="1.5" />
+      <module name="boss-bes-user-permission-center-utils" target="1.5" />
+      <module name="user.permission.center.parent" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
